@@ -23,21 +23,21 @@
 
 ### <a id=1></a> 1. Исследование продаж квартир в Санкт‑Петербурге и окрестностях
 
-[![View in nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-blue?logo=jupyter)](https://nbviewer.org/github/andrewsalmin/practicum-data-analysis/blob/main/saint-petersburg-real-estate.ipynb)
+[![View in nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-blue?logo=jupyter)](https://nbviewer.org/github/andrewsalmin/practicum-data-analysis/blob/main/notebooks/saint-petersburg-real-estate.ipynb)
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrewsalmin/practicum-data-analysis/HEAD?labpath=saint-petersburg-real-estate.ipynb)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrewsalmin/practicum-data-analysis/HEAD?labpath=notebooks/saint-petersburg-real-estate.ipynb)
 
 ### <a id=2></a> 2. Исследование продаж компьютерных игр
 
-[![View in nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-blue?logo=jupyter)](https://nbviewer.org/github/andrewsalmin/practicum-data-analysis/blob/main/computer-games-sales.ipynb)
+[![View in nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-blue?logo=jupyter)](https://nbviewer.org/github/andrewsalmin/practicum-data-analysis/blob/main/notebooks/computer-games-sales.ipynb)
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrewsalmin/practicum-data-analysis/HEAD?labpath=computer-games-sales.ipynb)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrewsalmin/practicum-data-analysis/HEAD?labpath=notebooks/computer-games-sales.ipynb)
 
 ### <a id=3></a> 3. Прогнозирование коэффициента восстановления золота из руды
 
-[![View in nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-blue?logo=jupyter)](https://nbviewer.org/github/andrewsalmin/practicum-data-analysis/blob/main/gold-recovery.ipynb)
+[![View in nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-blue?logo=jupyter)](https://nbviewer.org/github/andrewsalmin/practicum-data-analysis/blob/main/notebooks/gold-recovery.ipynb)
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrewsalmin/practicum-data-analysis/HEAD?labpath=gold-recovery.ipynb)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrewsalmin/practicum-data-analysis/HEAD?labpath=notebooks/gold-recovery.ipynb)
 
 ### <a id=4></a> 4. Исследование TED-конференций
 
@@ -75,7 +75,8 @@
     |       └── themes.png
     |
     ├── requirements.txt
-    └── README.md
+    ├── README.md
+    └── LICENSE
 ```
 
 ## ⚙️ Как запустить локально
