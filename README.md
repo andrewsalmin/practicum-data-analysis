@@ -25,17 +25,23 @@
 
 [![View in nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-blue?logo=jupyter)](https://nbviewer.org/github/andrewsalmin/practicum-data-analysis/blob/main/notebooks/saint-petersburg-real-estate.ipynb)
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewsalmin/practicum-data-analysis/blob/main/notebooks/saint-petersburg-real-estate.ipynb)
+
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrewsalmin/practicum-data-analysis/HEAD?labpath=notebooks/saint-petersburg-real-estate.ipynb)
 
 ### <a id=2></a> 2. Исследование продаж компьютерных игр
 
 [![View in nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-blue?logo=jupyter)](https://nbviewer.org/github/andrewsalmin/practicum-data-analysis/blob/main/notebooks/computer-games-sales.ipynb)
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewsalmin/practicum-data-analysis/blob/main/notebooks/computer-games-sales.ipynb)
+
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrewsalmin/practicum-data-analysis/HEAD?labpath=notebooks/computer-games-sales.ipynb)
 
 ### <a id=3></a> 3. Прогнозирование коэффициента восстановления золота из руды
 
 [![View in nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-blue?logo=jupyter)](https://nbviewer.org/github/andrewsalmin/practicum-data-analysis/blob/main/notebooks/gold-recovery.ipynb)
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewsalmin/practicum-data-analysis/blob/main/notebooks/gold-recovery.ipynb)
 
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrewsalmin/practicum-data-analysis/HEAD?labpath=notebooks/gold-recovery.ipynb)
 
